@@ -4,6 +4,15 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// function HelloComponent(){
+//   return <h1>Hello World</h1>
+// }
+
+// class HelloComponent extends React.Component{
+//   render(){
+//     return <h1>สวัสดี Component </h1>
+//   }
+// }
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
